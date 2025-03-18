@@ -37,7 +37,7 @@ To develop this software I used:
 - [Microsoft - operador '<<'](https://learn.microsoft.com/es-es/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=msvc-170)
 - [Medium - comments topic](https://medium.com/@vimalathasvithusan/demystifying-the-unistd-h-header-file-in-c-programming-9c57342e294d)
 
--- [AI](https://chatgpt.com/)
+- [AI](https://chatgpt.com/)
 
 
 # Future Work
