@@ -8,8 +8,6 @@ class InvokeSong {
 private:
     int pid;
    
-
-
 public:
     InvokeSong(){
         pid=-1;

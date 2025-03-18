@@ -33,7 +33,7 @@ class Track{
         }
 
         friend ostream& operator<<(ostream& os, const Track& track) {
-            os << "Title: " << track.title_song << endl;  // Solo el título de la canción
+            os << "Title: " << track.title_song << endl;  
             return os;
         }
 

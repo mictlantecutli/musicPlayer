@@ -71,7 +71,7 @@ class Director{
         string path;
         
         //ask the user for the song details
-        cout << "\n****Fill your sing info*****" << endl;
+        cout << "\n****Fill your song info*****" << endl;
         cout << "Song title: ";
         getline(cin, title); //cin means "console input"
         cout << "Year Song: ";
